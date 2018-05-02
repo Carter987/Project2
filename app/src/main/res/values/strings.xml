@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="RollTheDie">Ask a question</string>
+    <string name="Message1">I dont know what the qustion was but the answer is probably 42</string>
+    <string name="Message2">I dont know</string>
+    <string name="Message3">Try again later</string>
+    <string name="Message4">What was the quesiton?</string>
+    <string name="Message5">Hmmm, I was not paying attention</string>
+    <string name="Message6">I need a raise</string>
+</resources>
